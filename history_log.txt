@@ -1,0 +1,5 @@
+Script started on Wednesday 17 January 2018 11:37:46 PM IST
+]0;rishi@rishi-HP-2000-Notebook-PC: ~/website[01;32mrishi@rishi-HP-2000-Notebook-PC[00m:[01;34m~/website[00m$ exit
+exit
+
+Script done on Wednesday 17 January 2018 11:38:48 PM IST
