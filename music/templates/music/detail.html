@@ -12,7 +12,7 @@
     {% for song in album.song_set.all %}
         <input type="radio" id="song{{ forloop.counter }}" name="song" value="{{ song.id }}">
         <label for="song{{ forloop.counter }}">
-            {{ song.song_title}}
+            {{ song.song_title }}
             {% if song.is_favorite %}
                    <img src="https://www.clipartsgram.com/image/1140439759-star-clipart-and-animated-graphics-of-stars-2.png"/>
             {% endif %}
